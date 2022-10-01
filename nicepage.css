@@ -38188,6 +38188,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
+    margin-top: -51px;
     margin-bottom: -10px;
   }
 }
@@ -38198,19 +38199,21 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     width: 394px;
-    margin-top: -51px;
     margin-left: 300px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-menu-1 {
+    margin-top: 27px;
     margin-right: -12px;
   }
 
   .u-header .u-image-1 {
     width: 285px;
     height: 51px;
-    margin-left: 350px;
+    margin-top: -41px;
+    margin-bottom: 18px;
+    margin-left: -50px;
   }
 }
  .u-footer {
